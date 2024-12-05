@@ -28,7 +28,6 @@ Explore my projects below to get a glimpse of my skills and interests:
 I'm always open to new opportunities and collaborations. Feel free to reach out:
 
 - LinkedIn: https://www.linkedin.com/in/connor-dunn2025/
-- Email: connoro.dunn@gmail.com
 ---
 
 Thank you for visiting my GitHub profile! I'm excited about the possibilities that lie ahead, and I look forward to connecting with like-minded individuals in the tech community.
