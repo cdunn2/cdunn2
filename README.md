@@ -3,13 +3,6 @@
 ## About Me
 Hello there! I'm Connor Dunn, a passionate and motivated student with an interest in Cyber Security, Software Engineering, and Data Analysis. Currently pursuing my B.S. at James Madison University, I am enthusiastic about leveraging technology to solve real-world problems. My academic journey has provided me with a solid foundation, and I've had the opportunity to apply my skills through internships.
 
-## Internship Experience
-### Lookout Inc. - Mobile Threat Research Intern (July 2023 - January 2024)
-- Actively contributed to the Threat Intelligence Team's initiatives, identifying emerging trends and potential risks to mobile security through the meticulous analysis of the top spyware families. Responsible for managing MISP entries, I ensured the confidentiality of sensitive malicious indicators of compromise, and enhanced our understanding of evolving threats.
-- Gained a foundational understanding of threat hunting methodologies while effectively communicating complex concepts to diverse audiences, utilizing my technical experience and proficiency with Python and Java.
-- Faced with the challenge of navigating through an extensive volume of data in threat hunting, I acquired the basics of threat hunting methodologies to efficiently investigate spyware.
-- Analyzed mobile applications for signs of potential malware using database querying and acquired foundational skills in reverse engineering source code to identify suspicious activities and potential abuses of accessibilities.
-
 ## Projects
 Explore my projects below to get a glimpse of my skills and interests:
 
@@ -28,8 +21,8 @@ Explore my projects below to get a glimpse of my skills and interests:
 - Applied a diverse skill set to drive successful projects, encompassing software engineering, data analysis, database systems, programming, and data visualizations. 
 
 ## Academic Achievements
-- Dean's List Fall & Spring 2023, Fall 2022. 
-- 3.52 GPA
+- Dean's List Spring 2024, Fall & Spring 2023, Fall 2022. 
+- 3.60 GPA
 
 ## Let's Connect
 I'm always open to new opportunities and collaborations. Feel free to reach out:
