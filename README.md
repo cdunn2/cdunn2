@@ -1,7 +1,7 @@
 # Welcome to Connor Dunn's GitHub Profile 👋
 
 ## About Me
-Hello there! I'm Connor Dunn, a passionate and motivated student with an interest in Cyber Security, Software Engineering, and Data Analysis. Currently pursuing my B.S. at James Madison University, I am enthusiastic about leveraging technology to solve real-world problems. My academic journey has provided me with a solid foundation, and I've had the opportunity to apply my skills in internships.
+Hello there! I'm Connor Dunn, a passionate and motivated student with an interest in Cyber Security, Software Engineering, and Data Analysis. I recently completed my B.S. at James Madison University, I am enthusiastic about leveraging technology to solve real-world problems. My academic journey has provided me with a solid foundation, and I've had the opportunity to apply my skills in internships.
 
 ## Projects
 Explore my projects below to get a glimpse of my skills and interests:
@@ -22,7 +22,7 @@ Explore my projects below to get a glimpse of my skills and interests:
 
 ## Academic Achievements
 - Dean's List Spring 2024, Fall & Spring 2023, Fall 2022. 
-- 3.60 GPA
+- 3.64 GPA
 
 ## Let's Connect
 I'm always open to new opportunities and collaborations. Feel free to reach out:
